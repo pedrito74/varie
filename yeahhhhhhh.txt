@@ -2,7 +2,7 @@ import java.io.*;
 public class FileDemo2 {  
     public static void main(String[] args) {  
   
-        String path = "";  
+        String path = "3333333";  
         boolean bool = false;  
         try {  
             // createing  new files  
