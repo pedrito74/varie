@@ -30,4 +30,6 @@ public interface DefaultConstants {
    public final static String  STRING_ASC_ATTRIBUTE="STRING_ASC";
    public final static String  STRING_DESC_ATTRIBUTE="STRING_DESC";  
    
+   public final static String  STRING_DESC_ATTRIBUTE="STRING_DESC";
+   
 }
