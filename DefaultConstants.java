@@ -22,7 +22,7 @@ package com.fourflight.WP.XAI.ISMUtilities;
 public interface DefaultConstants {
 
    enum CompareResult {
-      GREATER_THAN, EQUAL, LESS_THAN;
+      GREATER_THAN, EQUAL, LESS_THAN, TREEEEE;
    }
 
    public static String NA = "NA";
